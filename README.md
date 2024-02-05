@@ -1,2 +1,2 @@
 # flask-app
-Text suumerizer using s-BERT
+Text summerizer using s-BERT
